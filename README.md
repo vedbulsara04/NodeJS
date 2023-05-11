@@ -1,7 +1,7 @@
 ## NodeJS topics:
 > http module
 
-> read the query string
+> query string
 
 ---
 
