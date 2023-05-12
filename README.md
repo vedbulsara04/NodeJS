@@ -3,6 +3,12 @@
 
 > query string
 
+> file system
+
+> node mailer module
+
+> nodejs-mysql
+
 ---
 
 ### this repository is maintained by :
